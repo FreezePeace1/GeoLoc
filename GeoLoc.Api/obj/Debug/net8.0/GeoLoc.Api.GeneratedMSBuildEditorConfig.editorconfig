@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GeoLoc
+build_property.RootNamespace = GeoLoc
+build_property.ProjectDir = /home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/alexander/RiderProjects/GeoLoc/GeoLoc.Api
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Chart/GetLatitudeAndLongitudeChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvR2V0TGF0aXR1ZGVBbmRMb25naXR1ZGVDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Chart/GetSpeedAndTimeChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcnQvR2V0U3BlZWRBbmRUaW1lQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/File/ListFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZS9MaXN0RmlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/File/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZS9SZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/File/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZS9VcGxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Map/GetMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFwL0dldE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uf51eiisuw

@@ -1,0 +1,14 @@
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.deps.json
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.runtimeconfig.json
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.pdb
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfo.cs
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/refint/GeoLoc.DAL.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.pdb
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.genruntimeconfig.cache
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/ref/GeoLoc.DAL.dll

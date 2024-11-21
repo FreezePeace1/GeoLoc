@@ -1,0 +1,31 @@
+@model GeoLoc.Domain.Dtos.ResponseDto<System.Collections.Generic.List<GeoLoc.Domain.Models.LatAndLongDataModel>>
+
+@{
+    var latitude = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Data.Select(x => x.Latitude).ToList());
+    var longtitude = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Data.Select(x => x.Longitude).ToList());
+}
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+
+<div id="map" style="height: 400px;"></div>
+
+<script>
+    var latitude = @Html.Raw(latitude);
+    var longitude = @Html.Raw(longtitude);
+
+    // Инициализация карты
+    var map = L.map('map').setView([latitude[0], longitude[0]], 13);
+
+    // Добавление слоя карты
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    // Добавление маркеров для каждой точки
+    for (var i = 0; i < latitude.length; i++) {
+        L.marker([latitude[i], longitude[i]]).addTo(map);
+    }
+</script>

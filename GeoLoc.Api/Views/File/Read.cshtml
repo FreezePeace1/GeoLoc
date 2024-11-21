@@ -1,0 +1,46 @@
+@model GeoLoc.Domain.Dtos.ResponseDto<List<string[]>>
+
+<h1>Данные файла:</h1>
+
+<hr/>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>№</th>
+        <th>DEVICE_ID</th>
+        <th>DATE</th>
+        <th>TIME</th>
+        <th>LATITUDE</th>
+        <th>N/S</th>
+        <th>LONGITUDE</th>
+        <th>E/W</th>
+        <th>SPEED</th>
+        <th>COURSE</th>
+        <th>ALTITUDE</th>
+        <th>ODOMETER</th>
+        <th>IO_STATUS</th>
+        <th>EVENT_ID</th>
+        <th>AIN1</th>
+        <th>AIN2</th>
+        <th>FIX_MODE</th>
+        <th>GLONASS SAT_NO</th>
+        <th>GPS SAT_NO</th>
+        <th>HDOP</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{ int i = 1;}
+    @foreach (var line in Model.Data)
+    {
+        <tr>
+            <td>@i</td>
+            @foreach (var value in line)
+            {
+                <td>@value</td>
+            }
+            @{ i++; }
+        </tr>
+    }
+    </tbody>
+</table>

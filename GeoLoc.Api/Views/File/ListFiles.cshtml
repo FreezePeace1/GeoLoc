@@ -1,0 +1,26 @@
+@model List<string>
+
+<h2>Uploaded Files</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Название файла</th>
+        <th>Скачивание</th>
+        <th>Чтение</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var file in Model)
+    {
+        <tr>
+            <td>@file</td>
+            <td>
+                <a asp-action="Download" asp-route-filename="@file" class="btn btn-success">Скачать</a>
+            </td>
+            <td>
+                <a asp-action="Read" asp-route-filename="@file" class="btn btn-success">Прочитать</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

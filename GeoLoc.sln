@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLoc.Api", "GeoLoc.Api\GeoLoc.Api.csproj", "{ABF678E5-440A-422A-9C16-05B05C0CC369}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D5FC2DB5-88FE-440A-B874-C521295EFA92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infastructure", "Infastructure", "{216B79AD-38CE-4C91-B9D2-98A8AA0C55D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{BC87DA58-B764-415F-87F4-0EDB6AF9828B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLoc.Domain", "GeoLoc.Domain\GeoLoc.Domain.csproj", "{896753A6-C4CC-4E5F-B957-7C9837B12BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLoc.Application", "GeoLoc.Application\GeoLoc.Application.csproj", "{53910998-2B97-434D-94FF-50ED23822B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLoc.DAL", "GeoLoc.DAL\GeoLoc.DAL.csproj", "{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF678E5-440A-422A-9C16-05B05C0CC369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF678E5-440A-422A-9C16-05B05C0CC369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF678E5-440A-422A-9C16-05B05C0CC369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF678E5-440A-422A-9C16-05B05C0CC369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896753A6-C4CC-4E5F-B957-7C9837B12BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896753A6-C4CC-4E5F-B957-7C9837B12BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896753A6-C4CC-4E5F-B957-7C9837B12BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896753A6-C4CC-4E5F-B957-7C9837B12BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53910998-2B97-434D-94FF-50ED23822B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53910998-2B97-434D-94FF-50ED23822B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53910998-2B97-434D-94FF-50ED23822B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53910998-2B97-434D-94FF-50ED23822B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABF678E5-440A-422A-9C16-05B05C0CC369} = {D5FC2DB5-88FE-440A-B874-C521295EFA92}
+		{896753A6-C4CC-4E5F-B957-7C9837B12BC0} = {BC87DA58-B764-415F-87F4-0EDB6AF9828B}
+		{53910998-2B97-434D-94FF-50ED23822B09} = {BC87DA58-B764-415F-87F4-0EDB6AF9828B}
+		{2D47CAC5-CEBF-4A7E-91AD-FAA90737C3B7} = {216B79AD-38CE-4C91-B9D2-98A8AA0C55D0}
+	EndGlobalSection
+EndGlobal

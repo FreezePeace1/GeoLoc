@@ -1,0 +1,44 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="UploadedFailed" xml:space="preserve">
+        <value>Загрузка файла провалена</value>
+    </data>
+    <data name="FilePickedWrongly" xml:space="preserve">
+        <value>Неправильно подобран файл</value>
+    </data>
+    <data name="DirectoryDoesNotExist" xml:space="preserve">
+        <value>Каталог не существует</value>
+    </data>
+    <data name="RecevingIsFailed" xml:space="preserve">
+        <value>Получение файлов неуспешно</value>
+    </data>
+    <data name="FileIsNotFound" xml:space="preserve">
+        <value>Файл не найден</value>
+    </data>
+    <data name="FilenameIsNotProvided" xml:space="preserve">
+        <value>Не приведено название файла</value>
+    </data>
+    <data name="DownloadingFileIsFailed" xml:space="preserve">
+        <value>Скачивание файла провалено</value>
+    </data>
+    <data name="ReadingFileIsFailed" xml:space="preserve">
+        <value>Чтение файла провалено</value>
+    </data>
+    <data name="ChartIsFailedToCreate" xml:space="preserve">
+        <value>Ошибка создания графика</value>
+    </data>
+    <data name="FailedToGetDataForMap" xml:space="preserve">
+        <value>Не получилось получить данные для карты</value>
+    </data>
+</root>
