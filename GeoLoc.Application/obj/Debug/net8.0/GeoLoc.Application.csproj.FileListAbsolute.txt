@@ -28,3 +28,4 @@
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Application/obj/Debug/net8.0/en/GeoLoc.Application.resources.dll
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.cs
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoLoc.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721f8c0293419a71837dee3a30ec0fa498a0d283")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoLoc.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoLoc.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

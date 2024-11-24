@@ -17,3 +17,4 @@
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Domain/bin/Debug/net8.0/Microsoft.Extensions.Features.dll
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.AssemblyReference.cache
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.CopyComplete
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.sourcelink.json

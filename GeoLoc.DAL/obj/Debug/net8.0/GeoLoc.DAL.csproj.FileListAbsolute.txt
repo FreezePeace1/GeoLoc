@@ -12,3 +12,4 @@
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.pdb
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.genruntimeconfig.cache
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/ref/GeoLoc.DAL.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.sourcelink.json

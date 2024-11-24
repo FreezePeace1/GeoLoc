@@ -54,3 +54,4 @@
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/bin/Debug/net8.0/ru/GeoLoc.Application.resources.dll
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/bin/Debug/net8.0/en/GeoLoc.Application.resources.dll
 /home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.sourcelink.json

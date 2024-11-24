@@ -8,7 +8,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f3ca0c3-ae1f-4118-a28a-a7aa68d625cc" name="Changes" comment="" />
+    <list default="true" id="9f3ca0c3-ae1f-4118-a28a-a7aa68d625cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GeoLoc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GeoLoc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/Views/Map/GetMap.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/Views/Map/GetMap.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/GeoLoc.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/en/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/en/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/ru/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/bin/Debug/net8.0/ru/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/ref/GeoLoc.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/ref/GeoLoc.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/refint/GeoLoc.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/refint/GeoLoc.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/GeoLoc.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/en/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/en/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/ru/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/bin/Debug/net8.0/ru/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/GeoLoc.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/en/GeoLoc.Application.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/en/GeoLoc.Application.resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/en/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/en/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ref/GeoLoc.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ref/GeoLoc.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/refint/GeoLoc.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/refint/GeoLoc.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Application/obj/Debug/net8.0/ru/GeoLoc.Application.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/bin/Debug/net8.0/GeoLoc.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/GeoLoc.DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/ref/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/ref/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/refint/GeoLoc.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.DAL/obj/Debug/net8.0/refint/GeoLoc.DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/bin/Debug/net8.0/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/bin/Debug/net8.0/GeoLoc.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/bin/Debug/net8.0/GeoLoc.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/bin/Debug/net8.0/GeoLoc.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/GeoLoc.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/ref/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/ref/GeoLoc.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/refint/GeoLoc.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GeoLoc.Domain/obj/Debug/net8.0/refint/GeoLoc.Domain.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +76,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1b82d68603a54e4ca7ae33e9df3c44b5127000/8e/8ad7ef91/TextFieldParser.cs" root0="SKIP_HIGHLIGHTING" />
@@ -25,14 +88,18 @@
     <setting file="file://$PROJECT_DIR$/GeoLoc.Api/Views/File/ListFiles.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GeoLoc.Api/Views/File/Upload.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GeoLoc.Api/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GeoLoc.Api/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/alexander/RiderProjects/GeoLoc/GeoLoc.Api/obj/Debug/net8.0/GeoLoc.Api.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GeoLoc.Application/Services/FileService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GeoLoc.Application/Services/Interfaces/IFileService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GeoLoc.Domain/Models/FileUploadViewModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2oiAcLPHIqlw22Wcs5qWCqo1DUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +108,8 @@
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.GeoLoc: http.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alexander/RiderProjects/GeoLoc&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -112,14 +181,29 @@
       <workItem from="1732051179498" duration="4481000" />
       <workItem from="1732107356825" duration="12632000" />
       <workItem from="1732141693271" duration="5990000" />
+      <workItem from="1732193065599" duration="3388000" />
+      <workItem from="1732228541591" duration="298000" />
+      <workItem from="1732470251851" duration="997000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1732203429499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732203429499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
